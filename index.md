@@ -1,15 +1,16 @@
 ## Amit Marcus (@marxus) CV
 
 ### OneLiner:
-FullStack developer (Python/JS) with a DevOps orientation for a good neat containerized/serverless app deployment on the cloud (AWS)
+FullStack developer (Python/JS) with a DevOps orientation for a good neat and clean app deployment (continerized/serverless) on the cloud (AWS)
 
 ## Skills:
 
 ### 🐍 Python:
 - Backend WebDev - worked with various frameworks such as Flask/Bottle/TurboGears and  Django
 - Familier with popular tooling for development such as venv/pipenv/poetry, pytest/unittest/nose, standard libs and other open source packages
-- Enjoy "exploiting" python's duck-type nature (if it quacks like a 🦆), but also familier with static type annonation and checkers such as mypy
 - Using it to write automation and general purpose scripts for *nix envs (`#!/usr/bin/env python3`)
+- Really like python's duck-type nature (if it quacks like a 🦆, see: [destructipy](https://github.com/marxus/destructipy)), but also familier with static type annonation and checkers such as mypy
+- Enjoy "exploiting" python's dyanmic import system for monkey-patching 🐒
 - can also work with the now EOL 2 branch when and if needed
 
 ### 📜 JavaScript/NodeJS:
@@ -22,7 +23,8 @@ FullStack developer (Python/JS) with a DevOps orientation for a good neat contai
 - Some Android 🤖/iOS dev using Cordova/PhoneGap 📱
 
 ### ☁️ Cloud:
-- AWS - general usage using IAM roles, S3, Route53, SES, RDS, deploying serverless Lambda **λ** apps with API-gateway and such
+- AWS - general usage using IAM roles, S3, Route53, SES, SQS, RDS, CloudWatch
+- Deploying serverless Lambda **λ** apps behind API-Gateway/ALB
 - AWS - more advanced VPC usages: EC2, networking, secutiry groups, setting up bastion hosts and vpn access ... and ofcourse - containerized apps on ECS using Fargate and ALB
 - Infrastructure as Code - provisioning all the above using Terraform 🌎 as a IaC tool
 - some experience with GCP (app engine as dev) and Azure (as NT based domain/active directory admin)
@@ -32,7 +34,7 @@ FullStack developer (Python/JS) with a DevOps orientation for a good neat contai
 - Docker 🐳 - writing Dockerfile and docker-compose.yml files
 - Manage Linux 🐧 web app servers using NGINX and supervisor
 - SQL - using and managing PostgreSQL/MySQL/MariaDB locally and on AWS RDS
-- Accustomed to the GNU/Linux toolchain, Bash scripting, git
+- Accustomed to the GNU/Linux toolchain, bash scripting, git, curl, etc...
 
 ### 🛰️ Salesforce:
 - "Backend" - using SF builtin tools such as process builder, workflows, custom objects, field validations and more... but as a dev in heart, I rather leverage Apex (SF's internal cloud language, a java subset) classes and triggers and apis for simplifing advance requirments using code
