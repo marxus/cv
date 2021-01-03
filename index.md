@@ -58,5 +58,5 @@ FullStack developer (Python/JS) with a DevOps orientation for a good neat contai
 
 ### 📨 Contact:
 - Email: [marxus@gmail.com](mailto:marxus@gmail.com)
-- LinkedIn: [marxus](www.linkedin.com/in/marxus)
+- LinkedIn: [marxus](https://www.linkedin.com/in/marxus)
 - Mobile: 972-54-6734595
