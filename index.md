@@ -22,7 +22,7 @@ FullStack developer (Python/JS) with a DevOps orientation for a good neat contai
 - Some Android 🤖/iOS dev using Cordova/PhoneGap 📱
 
 ### ☁️ Cloud:
-- AWS - general usage using IAM roles, S3, Route53, SES, RDS, deploying serverless Lambda's apps with API-gateway and suchs.
+- AWS - general usage using IAM roles, S3, Route53, SES, RDS, deploying serverless Lambda **λ** apps with API-gateway and such
 - AWS - more advanced VPC usages: EC2, networking, secutiry groups, setting up bastion hosts and vpn access ... and ofcourse - containerized apps on ECS using Fargate and ALB
 - Infrastructure as Code - provisioning all the above using Terraform 🌎 as a IaC tool
 - some experience with GCP (app engine as dev) and Azure (as NT based domain/active directory admin)
@@ -57,6 +57,6 @@ FullStack developer (Python/JS) with a DevOps orientation for a good neat contai
 - For sports and fun: rock climbing 🧗‍♂️, running 🏃‍♂️ and road cycling 🚴🏿
 
 ### 📨 Contact:
-- Email: marxus@gmail.com
-- LinkedIn: www.linkedin.com/in/marxus
+- Email: [marxus@gmail.com](mailto:marxus@gmail.com)
+- LinkedIn: [marxus](www.linkedin.com/in/marxus)
 - Mobile: 972-54-6734595
