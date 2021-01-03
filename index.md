@@ -10,7 +10,7 @@ FullStack developer (Python/JS) with a DevOps orientation for a good neat and cl
 - Familier with popular tooling for development such as venv/pipenv/poetry, pytest/unittest/nose, standard libs and other open source packages
 - Using it to write automation and general purpose scripts for *nix envs (`#!/usr/bin/env python3`)
 - Really like python's duck-type nature (if it quacks like a 🦆, see: [destructipy](https://github.com/marxus/destructipy)), but also familier with static type annonation and checkers such as mypy
-- Enjoy "exploiting" python's dyanmic import system for monkey-patching 🐒
+- Enjoy "exploiting" python's dyanmic import system for monkey-patching 🐒 to solve [problems](https://gist.github.com/marxus/78b18f59456d39963e2f481f5973c81a)
 - can also work with the now EOL 2 branch when and if needed
 
 ### 📜 JavaScript/NodeJS:
