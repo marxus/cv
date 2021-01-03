@@ -1,11 +1,7 @@
 ## Amit Marcus (@marxus) CV
 
----
-
 ### OneLiner:
-FullStack developer (Python/JS) with a devops orientation for a good neat containerized/serverless apps deployment on the cloud (AWS)
-
----
+FullStack developer (Python/JS) with a DevOps orientation for a good neat containerized/serverless app deployment on the cloud (AWS)
 
 ## Skills:
 
