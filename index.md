@@ -61,7 +61,7 @@ a place I can enjoy acquiring and improving my current skills in larger scales, 
 - Languages: Hebrew, English
 - For sports and fun: rock climbing 🧗‍♂️, running 🏃‍♂️ and road cycling 🚴🏿
 
-### Past Jobs:
+### 💼 Past Jobs:
 - 2009-2012 - NT Domain Administrator at Histadrut & Dror Israel Movement + in-house web-apps dev (acquired skill C#, .NET)
 
 - 2010-2013 - 4P-Tech (non existent anymore), small 6 person company for web development - (acquired skills Python, JS, Linux administration on the AWS EC2)
