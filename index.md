@@ -3,6 +3,9 @@
 ### OneLiner:
 FullStack developer (Python/JS) with a DevOps orientation for a good neat and clean app deployment (continerized/serverless) on the cloud (AWS)
 
+### Looking For:
+a place I can enjoy acquiring and improving my current skills in larger scales, mainly Backend/DevOps
+
 ## Skills:
 
 ### 🐍 Python:
@@ -57,6 +60,20 @@ FullStack developer (Python/JS) with a DevOps orientation for a good neat and cl
 - Bachelor of Education from Beit-Berl Collage
 - Languages: Hebrew, English
 - For sports and fun: rock climbing 🧗‍♂️, running 🏃‍♂️ and road cycling 🚴🏿
+
+### Past Jobs:
+- 2009-2012 - NT Domain Administrator at Histadrut & Dror Israel Movement + in-house web-apps dev (acquired skill C#, .NET)
+
+- 2010-2013 - 4P-Tech (non existent anymore), small 6 person company for web development - (acquired skills Python, JS, Linux administration on the AWS EC2)
+
+- 2014-2019 - ItMyWay - Salesforce integration company (acquired skills - salesforce apex, front-end React, google cloud engine)
+
+- 2020- Drorsoft - (latest venture, still under construction) - cooperative - web dev and infrastructure as code dev-ops solutions for AWS
+
+- 2009- part of a volunteer group that supports HaNoar Haoved VeHalomed Movement and built many auxiliary in-house apps for CRM, budgeting, and membership registration. (lots of python, node, and linux/docker)
+
+- Most of my work was done solo or in a small development team (2-3 members). so I had to learn the entire relevant tech spectrum and roles. I have a very good understanding in software requirenment specification, DB Models, and deployment.
+- probably there are more stuff I did, some side projects and fooling around with code.
 
 ### 📨 Contact:
 - Email: [marxus@gmail.com](mailto:marxus@gmail.com)
