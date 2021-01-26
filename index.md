@@ -1,16 +1,16 @@
-**Amit Marcus (@marxus) CV**
+## Amit Marcus (@marxus) CV
 
-**One Liner:**
+### One Liner:
 
 FullStack Developer (Python/JavaScript) with a DevOps orientation for a good neat and clean app deployment (containerized/serverless) on the cloud (mostly AWS experience).
 
 I have a lot of experience working solo or in small development teams (2-3 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past jobs.
 
-**Looking For:**
+### Looking For:
 
 A place I can enjoy acquiring and improving my current skills in larger scales, with new tech, modern best-practices and a strong dev team, mainly in the Backend/DevOps fields.
 
-**Skills:**
+### Skills:
 
 **_🐍 Python:_**
 
@@ -47,49 +47,49 @@ A place I can enjoy acquiring and improving my current skills in larger scales, 
 *   Worked with PostgreSQL/MySQL/MariaDB locally and on AWS RDS
 *   Accustomed to the GNU/Linux toolchain, bash scripting, git, curl, etc…
 
-**💼 Past Jobs:**
+### 💼 Past Jobs:
 
-*   **2019-2020: Drorsoft (a web-dev cooperative)**
-    *   **Roles:**
-        *   FullStack Web Developer
-        *   DevOps & AWS Administrator
-        *   Teaching and Mentorship
-    *   **Tech Used:** #python #django #jupyter #flask #aws #lambda #ecs #docker #terraform #javascript #react #nginx #linux #mariadb #postgresql
-    *   **Activities:** websites, integration and deployment pipelines, infrastructure as code services, cloud migration services, teaching and mentoring newbies on python and javascript
+**_2019-2020: Drorsoft (a web-dev cooperative)_**
+*   **Roles:**
+    *   FullStack Web Developer
+    *   DevOps & AWS Administrator
+    *   Teaching and Mentorship
+*   **Tech Used:** #python #django #jupyter #flask #aws #lambda #ecs #docker #terraform #javascript #react #nginx #linux #mariadb #postgresql
+*   **Activities:** websites, integration and deployment pipelines, infrastructure as code services, cloud migration services, teaching and mentoring newbies on python and javascript
 
-*   **2014-2019: ITmyWay (salesforce integration services)**
-    *   **Roles:**
-        *   FullStack Salesforce Developer
-    *   **Tech Used:** #salesforce #apex #visualforce #javascript #react
-    *   **Activities:** customer facing services such as api integration, data manipulation, user communities & portals, mobile-first single page apps (basically it’s like fullstack within the salesforce cloud ecosystem)
+**_2014-2019: ITmyWay (salesforce integration services)_**
+*   **Roles:**
+    *   FullStack Salesforce Developer
+*   **Tech Used:** #salesforce #apex #visualforce #javascript #react
+*   **Activities:** customer facing services such as api integration, data manipulation, user communities & portals, mobile-first single page apps (basically it’s like fullstack within the salesforce cloud ecosystem)
 
-*   **2010-2013: 4P-Tech (one stop shop for web-dev)**
-    *   **Roles:**
-        *   Co-Founder & CTO
-        *   FullStack Web Developer
-        *   DevOps
-    *   **Tech Used:** #python #turbogears #django #fabric #node #express #aws #ec2 #rds #linux #nginx #supervisord #javascript #angular
-    *   **Activities:** customer facing services such as websites building, facebook integrations, customized information system and crm, include hosting and maintenance
+**_2010-2013: 4P-Tech (one stop shop for web-dev)_**
+*   **Roles:**
+    *   Co-Founder & CTO
+    *   FullStack Web Developer
+    *   DevOps
+*   **Tech Used:** #python #turbogears #django #fabric #node #express #aws #ec2 #rds #linux #nginx #supervisord #javascript #angular
+*   **Activities:** customer facing services such as websites building, facebook integrations, customized information system and crm, include hosting and maintenance
 
-*   **2009-2020: HaNoar HaOved VeHaLomed Movement (social movement, as a volunteer)**
-    *   **Roles:**
-        *   FullStack Web, Game & Mobile Apps Developer
-        *   DevOps & AWS Administrator
-    *   **Tech Used:** #python #turbogears #django #jquery #angularjs #react #node #webpack #phonegap #cordova #linux #aws #docker #terraform #mariadb #postgresql #actionscript
-    *   **Activities: **various websites, web games, in-house apps for crm, budget accounting management and membership registration, mobile app dev
+**_2009-2020: HaNoar HaOved VeHaLomed Movement (social movement, as a volunteer)_**
+*   **Roles:**
+    *   FullStack Web, Game & Mobile Apps Developer
+    *   DevOps & AWS Administrator
+*   **Tech Used:** #python #turbogears #django #jquery #angularjs #react #node #webpack #phonegap #cordova #linux #aws #docker #terraform #mariadb #postgresql #actionscript
+*   **Activities:** various websites, web games, in-house apps for crm, budget accounting management and membership registration, mobile app dev
 
-*   **2009-2012:** **Dror Israel (social movement)**
-    *   **Roles:**
-        *   Network & NT Domain Administrator (“IT”)
-        *   FullStack Web Developer
-    *   **Tech Used**: #windowserver #exchange #active-directory #office365 #fortigate #vmware #c# #dotnet #iis #mssql
-    *   **Activities:** ~500 users domain administration, on-prem to cloud migration project (office365/azure), establishing new physical sites (fw/routers/switches/vlans…), in-house web information system/portal development
+**_2009-2012: Dror Israel (social movement)_**
+*   **Roles:**
+    *   Network & NT Domain Administrator (“IT”)
+    *   FullStack Web Developer
+*   **Tech Used**: #windowserver #exchange #active-directory #office365 #fortigate #vmware #c# #dotnet #iis #mssql
+*   **Activities:** ~500 users domain administration, on-prem to cloud migration project (office365/azure), establishing new physical sites (fw/routers/switches/vlans…), in-house web information system/portal development
 
-**💻 Setup:**
+### 💻 Setup:
 
 *   Usually working under Linux (currently KDE Neon/Ubuntu 20.04) with PyCharm, WebStorm and VSCode
 
-**⁉️ About:**
+### ⁉️ About:
 
 *   35 years old
 *   Coding on and off since the bar mitzvah (started with the good ol’ Turbo Pascal). on a regular basis since 2009
@@ -100,7 +100,7 @@ A place I can enjoy acquiring and improving my current skills in larger scales, 
 *   Tour and Moreshet guide from HaMeorer institute
 *   For sports and fun: rock climbing 🧗‍♂️, running 🏃‍♂️ and road cycling 🚴🏿
 
-**📨 Contact:**
+### 📨 Contact:
 
 *   Email: [marxus@gmail.com](mailto:marxus@gmail.com)
 *   LinkedIn: [marxus](https://www.linkedin.com/in/marxus)
