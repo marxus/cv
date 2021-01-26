@@ -1,82 +1,107 @@
-## Amit Marcus (@marxus) CV
+**Amit Marcus (@marxus) CV**
 
-### OneLiner:
-FullStack developer (Python/JS) with a DevOps orientation for a good neat and clean app deployment (containerized/serverless) on the cloud (AWS)
+**One Liner:**
 
-### Looking For:
-A place I can enjoy acquiring and improving my current skills in larger scales, mainly Backend/DevOps
+FullStack Developer (Python/JavaScript) with a DevOps orientation for a good neat and clean app deployment (containerized/serverless) on the cloud (mostly AWS experience).
 
-## Skills:
+I have a lot of experience working solo or in small development teams (2-3 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past jobs.
 
-### 🐍 Python:
-- Backend WebDev - worked with various frameworks such as Flask/Bottle/TurboGears and  Django
-- Familiar with popular tooling for development such as venv/pipenv/poetry, pytest/unittest/nose, standard libs and other open source packages
-- Using it to write automation and general purpose scripts for *nix envs (`#!/usr/bin/env python3`)
-- Really like python's duck-type nature (if it quacks like a 🦆, see: [destructipy](https://github.com/marxus/destructipy)), but also Familiar with static type annotation and checkers such as mypy
-- Enjoy "exploiting" python's dynamic import system for monkey-patching 🐒 to solve [problems](https://gist.github.com/marxus/78b18f59456d39963e2f481f5973c81a)
-- can also work with the now EOL 2 branch when and if needed
+**Looking For:**
 
-### 📜 JavaScript/NodeJS:
-- Frontend WebDev - using React ⚛️ (love them useHooks), AngularJS ("v1"), also fiddled around with some VueJS. but undoubtedly prefers React for it's immutable one-way data flow design
-- Browser ("html5") APIs and interacting with the DOM, using vanilla JS and legacy libs such as jQuery💲
-- Good understanding of the async nature of the JavaScript event loop and web/service-workers
-- Bundle tools, transpilers and preprocessors - NPM/YARN, Webpack, Babel and LESS/SASS/PostCSS, compiled-to-js languages such as TypeScript and CoffeeScript ☕
-- Backend WebDev - some experience with express.js
-- Early adopter of new ES(next) features and syntax
-- Some Android 🤖/iOS dev using Cordova/PhoneGap 📱
+A place I can enjoy acquiring and improving my current skills in larger scales, with new tech, modern best-practices and a strong dev team, mainly in the Backend/DevOps fields.
 
-### ☁️ Cloud:
-- AWS - general usage using IAM roles, S3, Route53, SES, SQS, RDS, CloudWatch
-- Deploying serverless Lambda **λ** apps behind API-Gateway/ALB
-- AWS - more advanced VPC usages: EC2, networking, security groups, setting up bastion hosts and vpn access ... and of course - containerized apps on ECS using Fargate and ALB
-- Infrastructure as Code - provisioning all the above using Terraform 🌎 as a IaC tool
-- some experience with GCP (app engine as dev) and Azure (as NT based domain/active directory admin)
+**Skills:**
 
-### ⚙️ DevOps:
-- CI/CD on the cloud - using AWS CodePipeline - code-commit/build/deploy
-- Docker 🐳 - writing Dockerfile and docker-compose.yml files
-- Manage Linux 🐧 web app servers using NGINX and supervisor
-- SQL - using and managing PostgreSQL/MySQL/MariaDB locally and on AWS RDS
-- Accustomed to the GNU/Linux toolchain, bash scripting, git, curl, etc...
+**_🐍 Python:_**
 
-### 🛰️ Salesforce:
-- "Backend" - using SF builtin tools such as process builder, workflows, custom objects, field validations and more... but as a dev in heart, I rather leverage Apex (SF's internal cloud language, a java subset) classes and triggers and apis for simplifying advance requirements using code
-- "Frontend" - mainly SF Classic - customize layouts and widgets using VisualForce and custom HTML/JS/CSS
-- Data migration using SF standard tools such as DataLoader and writing custom tools to push/pull data using SOQL
-- Good knowledge on how SF user/role/permission/sharing model works and SF limits
+*   Backend - various frameworks such as Flask/Bottle/TurboGears and Django
+*   Worked with popular tooling such as venv/pipenv/poetry, pytest/unittest/nose, standard libs and other open source packages
+*   Automation and general purpose scripts for *nix envs
+*   Can work with the now EOL py2 branch when and if needed
+*   Familiar with static type annotation and checkers such as mypy, although really like python’s dynamic duck-type nature, monkey-patchable import system 🐒(see [destructipy](https://github.com/marxus/destructipy))
 
-### 🐆 Misc:
-- Used to manage 500+ users physical network, know my way  with switches/routers with vlans for private/public subnets separation, good experience with Fortigate products, NT Domains and Exchange Servers. some PowerShell
-- Used to write some C#/ASP.NET back in the day when I developed under MS-Windows (around ~2011). much has changed since but I guess I can manage my way
-- Taught newbies some Python/JS/HTML/CSS/SQL
+**_📜 JavaScript/Node.js:_**
 
-### 💻 Setup:
-- Usually working under KDE Neon (Ubuntu 20.04) with PyCharm, WebStorm and VSCode
+*   Frontend - using React ⚛️ (+1 for hooks), familiar with AngularJS and some VueJS. undoubtedly prefers React for it’s immutable one-way data flow design
+*   Browser (“html5”) api and interacting with the dom, using vanilla js and legacy libs such as jQuery💲
+*   Good understanding of the async event loop nature of the language
+*   Bundle tools, transpilers and preprocessors - npm/yarn, webpack, babel and less/sass/postcss, compiled-to-js languages such as typescript and coffeescript ☕ (see [babel-plugin-transform-property-prefix-symbol](https://github.com/marxus/babel-plugin-transform-property-prefix-symbol))
+*   Backend - some express.js experience
+*   Mobile - Android 🤖/iOS dev using Cordova/PhoneGap 📱
 
-### ⁉️ About:
-- 35 years old. coding on and off since 13 y/o (good ol' Turbo Pascal). on a regular basis for the last 13 years
-- Currently lives in Beer-Sheva 🐪, Israel
-- In a relationship. expecting +1 soon 👶
-- Bachelor of Education from Beit-Berl College
-- Languages: Hebrew, English
-- For sports and fun: rock climbing 🧗‍♂️, running 🏃‍♂️ and road cycling 🚴🏿
+**_☁️ Cloud:_**
 
-### 💼 Past Jobs:
-- **2020-Today:** Drorsoft - (latest venture, still under construction) - cooperative - web dev and infrastructure as code dev-ops solutions for AWS
+*   AWS General usage using IAM roles, S3, Route53, SES, SQS, RDS, CloudWatch
+*   AWS Deploying serverless Lambda λ apps behind API-Gateway/ALB
+*   AWS Deploying containerized apps on ECS using Fargate
+*   AWS More advanced VPC usages: EC2, networking, security groups, setting up bastion hosts and vpn access
+*   Some experience with deploying apps on Google Cloud Platform and Microsoft's Azure
+*   Salesforce platform fullstack developer - apex extensions, visualforce, api integrations
 
-- **2014-2019:** - ItMyWay - Salesforce integration company (acquired skills - salesforce apex, front-end React, google cloud engine)
+**_⚙️ DevOps:_**
 
-- **2010-2013:** - 4P-Tech (non existent anymore), small 6 person company for web development - (acquired skills Python, JS, Linux administration on the AWS EC2)
+*   Infrastructure as Code - Terraform 🌎 used for provision cloud resources (also wrote a small opinionated wrapper for terraform)
+*   CI/CD on the cloud - using AWS CodePipeline
+*   Docker 🐳 - writing Dockerfile and docker-compose.yml files
+*   Deploying and maintaining web apps on linux🐧 servers using nginx and supervisord
+*   Worked with PostgreSQL/MySQL/MariaDB locally and on AWS RDS
+*   Accustomed to the GNU/Linux toolchain, bash scripting, git, curl, etc…
 
-- **2009-2012:** - NT Domain Administrator at Histadrut & Dror Israel Movement + in-house web-apps dev (acquired skill C#, .NET)
+**💼 Past Jobs:**
 
-- **2009-Today:** part of a volunteer group that supports HaNoar Haoved VeHalomed Movement and built many auxiliary in-house apps for CRM, budgeting, and membership registration. (lots of python, node, and linux/docker)
+*   **2019-2020: Drorsoft (a web-dev cooperative)**
+    *   **Roles:**
+        *   FullStack Web Developer
+        *   DevOps & AWS Administrator
+        *   Teaching and Mentorship
+    *   **Tech Used:** #python #django #jupyter #flask #aws #lambda #ecs #docker #terraform #javascript #react #nginx #linux #mariadb #postgresql
+    *   **Activities:** websites, integration and deployment pipelines, infrastructure as code services, cloud migration services, teaching and mentoring newbies on python and javascript
 
-- Most of my work was done solo or in a small development team (2-3 members). so I had to learn the entire relevant tech spectrum and roles. I have a very good understanding in software requirement specification, DB Models, and deployment.
+*   **2014-2019: ITmyWay (salesforce integration services)**
+    *   **Roles:**
+        *   FullStack Salesforce Developer
+    *   **Tech Used:** #salesforce #apex #visualforce #javascript #react
+    *   **Activities:** customer facing services such as api integration, data manipulation, user communities & portals, mobile-first single page apps (basically it’s like fullstack within the salesforce cloud ecosystem)
 
-- probably there is more stuff I did, some side projects and fooling around with code.
+*   **2010-2013: 4P-Tech (one stop shop for web-dev)**
+    *   **Roles:**
+        *   Co-Founder & CTO
+        *   FullStack Web Developer
+        *   DevOps
+    *   **Tech Used:** #python #turbogears #django #fabric #node #express #aws #ec2 #rds #linux #nginx #supervisord #javascript #angular
+    *   **Activities:** customer facing services such as websites building, facebook integrations, customized information system and crm, include hosting and maintenance
 
-### 📨 Contact:
-- Email: [marxus@gmail.com](mailto:marxus@gmail.com)
-- LinkedIn: [marxus](https://www.linkedin.com/in/marxus)
-- Mobile: 972-54-6734595
+*   **2009-2020: HaNoar HaOved VeHaLomed Movement (social movement, as a volunteer)**
+    *   **Roles:**
+        *   FullStack Web, Game & Mobile Apps Developer
+        *   DevOps & AWS Administrator
+    *   **Tech Used:** #python #turbogears #django #jquery #angularjs #react #node #webpack #phonegap #cordova #linux #aws #docker #terraform #mariadb #postgresql #actionscript
+    *   **Activities: **various websites, web games, in-house apps for crm, budget accounting management and membership registration, mobile app dev
+
+*   **2009-2012:** **Dror Israel (social movement)**
+    *   **Roles:**
+        *   Network & NT Domain Administrator (“IT”)
+        *   FullStack Web Developer
+    *   **Tech Used**: #windowserver #exchange #active-directory #office365 #fortigate #vmware #c# #dotnet #iis #mssql
+    *   **Activities:** ~500 users domain administration, on-prem to cloud migration project (office365/azure), establishing new physical sites (fw/routers/switches/vlans…), in-house web information system/portal development
+
+**💻 Setup:**
+
+*   Usually working under Linux (currently KDE Neon/Ubuntu 20.04) with PyCharm, WebStorm and VSCode
+
+**⁉️ About:**
+
+*   35 years old
+*   Coding on and off since the bar mitzvah (started with the good ol’ Turbo Pascal). on a regular basis since 2009
+*   Currently lives in Beer-Sheva 🐪, Israel
+*   In a relationship. expecting +1 soon 👶
+*   Languages: Hebrew, English
+*   Bachelor of Education from Beit-Berl College
+*   Tour and Moreshet guide from HaMeorer institute
+*   For sports and fun: rock climbing 🧗‍♂️, running 🏃‍♂️ and road cycling 🚴🏿
+
+**📨 Contact:**
+
+*   Email: [marxus@gmail.com](mailto:marxus@gmail.com)
+*   LinkedIn: [marxus](https://www.linkedin.com/in/marxus)
+*   Mobile: 972-54-6734595
