@@ -50,39 +50,49 @@ A place I can enjoy acquiring and improving my current skills in larger scales, 
 ### 💼 Past Jobs:
 
 **_2019-2020: Drorsoft (a web-dev cooperative)_**
-*   **Roles:**
-    *   FullStack Web Developer
-    *   DevOps & AWS Administrator
-    *   Teaching and Mentorship
+*   **Roles:**  
+    FullStack Web Developer  
+    DevOps & AWS Administrator  
+    Teaching and Mentorship
+
 *   **Tech Used:** #python #django #jupyter #flask #aws #lambda #ecs #docker #terraform #javascript #react #nginx #linux #mariadb #postgresql
+
 *   **Activities:** websites, integration and deployment pipelines, infrastructure as code services, cloud migration services, teaching and mentoring newbies on python and javascript
 
 **_2014-2019: ITmyWay (salesforce integration services)_**
-*   **Roles:**
-    *   FullStack Salesforce Developer
+*   **Roles:**  
+    FullStack Salesforce Developer
+
 *   **Tech Used:** #salesforce #apex #visualforce #javascript #react
+
 *   **Activities:** customer facing services such as api integration, data manipulation, user communities & portals, mobile-first single page apps (basically it’s like fullstack within the salesforce cloud ecosystem)
 
 **_2010-2013: 4P-Tech (one stop shop for web-dev)_**
-*   **Roles:**
-    *   Co-Founder & CTO
-    *   FullStack Web Developer
-    *   DevOps
+*   **Roles:**  
+    Co-Founder & CTO  
+    FullStack Web Developer  
+    DevOps
+
 *   **Tech Used:** #python #turbogears #django #fabric #node #express #aws #ec2 #rds #linux #nginx #supervisord #javascript #angular
+
 *   **Activities:** customer facing services such as websites building, facebook integrations, customized information system and crm, include hosting and maintenance
 
 **_2009-2020: HaNoar HaOved VeHaLomed Movement (social movement, as a volunteer)_**
-*   **Roles:**
-    *   FullStack Web, Game & Mobile Apps Developer
-    *   DevOps & AWS Administrator
+*   **Roles:**  
+    FullStack Web, Game & Mobile Apps Developer  
+    DevOps & AWS Administrator
+
 *   **Tech Used:** #python #turbogears #django #jquery #angularjs #react #node #webpack #phonegap #cordova #linux #aws #docker #terraform #mariadb #postgresql #actionscript
+
 *   **Activities:** various websites, web games, in-house apps for crm, budget accounting management and membership registration, mobile app dev
 
 **_2009-2012: Dror Israel (social movement)_**
-*   **Roles:**
-    *   Network & NT Domain Administrator (“IT”)
-    *   FullStack Web Developer
+*   **Roles:**  
+    Network & NT Domain Administrator (“IT”)  
+    FullStack Web Developer
+
 *   **Tech Used**: #windowserver #exchange #active-directory #office365 #fortigate #vmware #c# #dotnet #iis #mssql
+
 *   **Activities:** ~500 users domain administration, on-prem to cloud migration project (office365/azure), establishing new physical sites (fw/routers/switches/vlans…), in-house web information system/portal development
 
 ### 💻 Setup:
