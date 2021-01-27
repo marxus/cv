@@ -4,50 +4,13 @@
 
 FullStack Developer (Python/JavaScript) with a DevOps orientation for a good neat and clean app deployment (containerized/serverless) on the cloud (mostly AWS experience).
 
-I have a lot of experience working solo or in small development teams (2-3 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past jobs.
+I have a lot of experience working solo or in small development teams (2-3 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past experience.
 
 ### Looking For:
 
 A place I can enjoy acquiring and improving my current skills in larger scales, with new tech, modern best-practices and a strong dev team, mainly in the Backend/DevOps fields.
 
-### Skills:
-
-**_🐍 Python:_**
-
-*   Backend - various frameworks such as Flask/Bottle/TurboGears and Django
-*   Worked with popular tooling such as venv/pipenv/poetry, pytest/unittest/nose, standard libs and other open source packages
-*   Automation and general purpose scripts for *nix envs
-*   Can work with the now EOL py2 branch when and if needed
-*   Familiar with static type annotation and checkers such as mypy, although really like python’s dynamic duck-type nature, monkey-patchable import system 🐒(see [destructipy](https://github.com/marxus/destructipy))
-
-**_📜 JavaScript/Node.js:_**
-
-*   Frontend - using React ⚛️ (+1 for hooks), familiar with AngularJS and some VueJS. undoubtedly prefers React for it’s immutable one-way data flow design
-*   Browser (“html5”) api and interacting with the dom, using vanilla js and legacy libs such as jQuery💲
-*   Good understanding of the async event loop nature of the language
-*   Bundle tools, transpilers and preprocessors - npm/yarn, webpack, babel and less/sass/postcss, compiled-to-js languages such as typescript and coffeescript ☕ (see [babel-plugin-transform-property-prefix-symbol](https://github.com/marxus/babel-plugin-transform-property-prefix-symbol))
-*   Backend - some express.js experience
-*   Mobile - Android 🤖/iOS dev using Cordova/PhoneGap 📱
-
-**_☁️ Cloud:_**
-
-*   AWS General usage using IAM roles, S3, Route53, SES, SQS, RDS, CloudWatch
-*   AWS Deploying serverless Lambda λ apps behind API-Gateway/ALB
-*   AWS Deploying containerized apps on ECS using Fargate
-*   AWS More advanced VPC usages: EC2, networking, security groups, setting up bastion hosts and vpn access
-*   Some experience with deploying apps on Google Cloud Platform and Microsoft's Azure
-*   Salesforce platform fullstack developer - apex extensions, visualforce, api integrations
-
-**_⚙️ DevOps:_**
-
-*   Infrastructure as Code - Terraform 🌎 used for provision cloud resources (also wrote a small opinionated wrapper for terraform)
-*   CI/CD on the cloud - using AWS CodePipeline
-*   Docker 🐳 - writing Dockerfile and docker-compose.yml files
-*   Deploying and maintaining web apps on linux🐧 servers using nginx and supervisord
-*   Worked with PostgreSQL/MySQL/MariaDB locally and on AWS RDS
-*   Accustomed to the GNU/Linux toolchain, bash scripting, git, curl, etc…
-
-### 💼 Past Jobs:
+### 💼 Experience:
 
 **_2019-2020: Drorsoft (a web-dev cooperative)_**
 *   **Roles:**  
@@ -94,6 +57,43 @@ A place I can enjoy acquiring and improving my current skills in larger scales, 
 *   **Tech Used**: #windowserver #exchange #active-directory #office365 #fortigate #vmware #c# #dotnet #iis #mssql
 
 *   **Activities:** ~500 users domain administration, on-prem to cloud migration project (office365/azure), establishing new physical sites (fw/routers/switches/vlans…), in-house web information system/portal development
+
+### Skills:
+
+**_🐍 Python:_**
+
+*   Backend - various frameworks such as Flask/Bottle/TurboGears and Django
+*   Worked with popular tooling such as venv/pipenv/poetry, pytest/unittest/nose, standard libs and other open source packages
+*   Automation and general purpose scripts for *nix envs
+*   Can work with the now EOL py2 branch when and if needed
+*   Familiar with static type annotation and checkers such as mypy, although really like python’s dynamic duck-type nature, monkey-patchable import system 🐒(see [destructipy](https://github.com/marxus/destructipy))
+
+**_📜 JavaScript/Node.js:_**
+
+*   Frontend - using React ⚛️ (+1 for hooks), familiar with AngularJS and some VueJS. undoubtedly prefers React for it’s immutable one-way data flow design
+*   Browser (“html5”) api and interacting with the dom, using vanilla js and legacy libs such as jQuery💲
+*   Good understanding of the async event loop nature of the language
+*   Bundle tools, transpilers and preprocessors - npm/yarn, webpack, babel and less/sass/postcss, compiled-to-js languages such as typescript and coffeescript ☕ (see [babel-plugin-transform-property-prefix-symbol](https://github.com/marxus/babel-plugin-transform-property-prefix-symbol))
+*   Backend - some express.js experience
+*   Mobile - Android 🤖/iOS dev using Cordova/PhoneGap 📱
+
+**_☁️ Cloud:_**
+
+*   AWS General usage using IAM roles, S3, Route53, SES, SQS, RDS, CloudWatch
+*   AWS Deploying serverless Lambda λ apps behind API-Gateway/ALB
+*   AWS Deploying containerized apps on ECS using Fargate
+*   AWS More advanced VPC usages: EC2, networking, security groups, setting up bastion hosts and vpn access
+*   Some experience with deploying apps on Google Cloud Platform and Microsoft's Azure
+*   Salesforce platform fullstack developer - apex extensions, visualforce, api integrations
+
+**_⚙️ DevOps:_**
+
+*   Infrastructure as Code - Terraform 🌎 used for provision cloud resources (also wrote a small opinionated wrapper for terraform)
+*   CI/CD on the cloud - using AWS CodePipeline
+*   Docker 🐳 - writing Dockerfile and docker-compose.yml files
+*   Deploying and maintaining web apps on linux🐧 servers using nginx and supervisord
+*   Worked with PostgreSQL/MySQL/MariaDB locally and on AWS RDS
+*   Accustomed to the GNU/Linux toolchain, bash scripting, git, curl, etc…
 
 ### 💻 Setup:
 
