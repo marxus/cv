@@ -1,14 +1,14 @@
 ## Amit Marcus (@marxus) CV
 
-### One Liner:
+### 1️⃣ One Liner:
 
 FullStack Developer (Python/JavaScript) with a DevOps orientation for a good neat and clean app deployment (containerized/serverless) on the cloud (mostly AWS experience).
 
-I have a lot of experience working solo or in small development teams (2-3 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past experience.
-
-### Looking For:
+### 🔍 Looking For:
 
 A place I can enjoy acquiring and improving my current skills in larger scales, with new tech, modern best-practices and a strong dev team, mainly in the Backend/DevOps fields.
+
+I have a lot of experience working solo or in small development teams (2-3 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past experience.
 
 ### 💼 Experience:
 
