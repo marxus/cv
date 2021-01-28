@@ -18,7 +18,7 @@ I have a lot of experience working solo or in small development teams (2-3 membe
     DevOps & AWS Administrator  
     Teaching and Mentorship
 
-*   **Tech Used:** <tech-used>#python #django #jupyter #flask #aws #lambda #ecs #docker #terraform #javascript #react #nginx #linux #mariadb #postgresql</tech-used>
+*   **Tech Used:** <tech-used>#python #django #jupyter #flask #aws #aws-lambda #ecs #docker #terraform #javascript #react #nginx #linux #mariadb #postgresql</tech-used>
 
 *   **Activities:** websites, integration and deployment pipelines, infrastructure as code services, cloud migration services, teaching and mentoring newbies on python and javascript
 
@@ -36,7 +36,7 @@ I have a lot of experience working solo or in small development teams (2-3 membe
     FullStack Web Developer  
     DevOps
 
-*   **Tech Used:** <tech-used>#python #turbogears #django #fabric #node #express #aws #ec2 #rds #linux #nginx #supervisord #javascript #angular</tech-used>
+*   **Tech Used:** <tech-used>#python #turbogears #django #fabric #node.js #express #aws #ec2 #rds #linux #nginx #supervisord #javascript #angularjs</tech-used>
 
 *   **Activities:** customer facing services such as websites building, facebook integrations, customized information system and crm, include hosting and maintenance
 
@@ -45,7 +45,7 @@ I have a lot of experience working solo or in small development teams (2-3 membe
     FullStack Web, Game & Mobile Apps Developer  
     DevOps & AWS Administrator
 
-*   **Tech Used:** <tech-used>#python #turbogears #django #jquery #angularjs #react #node #webpack #phonegap #cordova #linux #aws #docker #terraform #mariadb #postgresql #actionscript</tech-used>
+*   **Tech Used:** <tech-used>#python #turbogears #django #jquery #angularjs #react #node.js #webpack #phonegap #cordova #linux #aws #docker #terraform #mariadb #postgresql #actionscript</tech-used>
 
 *   **Activities:** various websites, web games, in-house apps for crm, budget accounting management and membership registration, mobile app dev
 
@@ -54,7 +54,7 @@ I have a lot of experience working solo or in small development teams (2-3 membe
     Network & NT Domain Administrator (“IT”)  
     FullStack Web Developer
 
-*   **Tech Used:** <tech-used>#windowserver #exchange #active-directory #office365 #fortigate #vmware #c# #dotnet #iis #mssql</tech-used>
+*   **Tech Used:** <tech-used>#window-server #exchange #active-directory #office365 #fortigate #vmware #c# #dotnet #iis #mssql</tech-used>
 
 *   **Activities:** ~500 users domain administration, on-prem to cloud migration project (office365/azure), establishing new physical sites (fw/routers/switches/vlans…), in-house web information system/portal development
 
@@ -117,5 +117,14 @@ I have a lot of experience working solo or in small development teams (2-3 membe
 *   Mobile: 972-54-6734595
 
 <script>
-console.log(document.querySelectorAll('tech-used'))
+// O(a*b)
+for (const techUsed of document.querySelectorAll('tech-used')) { // a
+    techUsed.innerHTML = techUsed.innerText
+        .split(' ')
+        .map(tech => { // b
+            const tag = encodeURIComponent(tech.substr(1))
+            return `<a href="https://stackoverflow.com/questions/tagged/${tag}" target="_blank">${tech}</a>`
+        })
+        .join(' ')
+}
 </script>
