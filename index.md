@@ -2,15 +2,26 @@
 
 ### 1️⃣ One Liner:
 
-FullStack Developer (Python/JavaScript) with a DevOps orientation for a good neat and clean app deployment (containerized/serverless) on the cloud (mostly AWS experience).
+FullStack Developer (Python/JavaScript/GoLang) with a DevOps orientation for a good neat and clean app deployment (containerized/serverless) on the cloud (lots of AWS experience).
 
 ### 🔍 Looking For:
 
 A place I can enjoy acquiring and improving my current skills in larger scales, with new tech, modern best-practices and a strong dev team, mainly in the Backend/DevOps fields.
 
-I have a lot of experience working solo or in small development teams (2-3 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past experience.
+I have experience working both solo and in small-medium development teams (2-8 members) where I performed the broad spectrum of roles, and self-taught myself new techs and expertise, as shown in my skill set and past experience.
+
+Worked comfortablably with both local and over-seas co-workers.
 
 ### 💼 Experience:
+
+**_2021-Ongoing: Change Healthcare (large american fin/health-tech corporate)_**
+*   **Roles:**  
+    Lead DevOps  
+    GoLang Backend Developer
+
+*   **Tech Used:** <tech-used>#golang #gin-gonic #grpc #aws #aws-lambda #ecs #docker #docker-compose #k8s #terraform #javascript #microservices #node.js #nginx #linux #envoy #apigee</tech-used>
+
+*   **Activities:** lead devops, designed and developed ci/cd processes to multiple environments, backend services in node + go, custom terraform providers and modules, knowledge transfer to junior devops, code reviews for devs, integrating production code within a corporate infrastructure
 
 **_2019-2020: Drorsoft (a web-dev cooperative)_**
 *   **Roles:**  
@@ -74,8 +85,15 @@ I have a lot of experience working solo or in small development teams (2-3 membe
 *   Browser (“html5”) api and interacting with the dom, using vanilla js and legacy libs such as jQuery💲
 *   Good understanding of the async event loop nature of the language
 *   Bundle tools, transpilers and preprocessors - npm/yarn, webpack, babel and less/sass/postcss, compiled-to-js languages such as typescript and coffeescript ☕ (see [babel-plugin-transform-property-prefix-symbol](https://github.com/marxus/babel-plugin-transform-property-prefix-symbol))
-*   Backend - some express.js experience
+*   Backend - express.js experience
 *   Mobile - Android 🤖/iOS dev using Cordova/PhoneGap 📱
+
+**_<img src="https://pkg.go.dev/static/shared/icon/favicon.ico" alt="drawing" width="16"/> GoLang:_**
+
+*   Backend Web experience using gin-gonic
+*   wrote a utility for tunneling network data (tunneling over websocket for overcoming restricted firewalls that only allow HTTPs)
+*   wrote custom terraform providers
+*   understand the go packages ecosystem, and published a couple of modules.
 
 **_☁️ Cloud:_**
 
@@ -88,23 +106,25 @@ I have a lot of experience working solo or in small development teams (2-3 membe
 
 **_⚙️ DevOps:_**
 
-*   Infrastructure as Code - Terraform 🌎 used for provision cloud resources (also wrote a small opinionated wrapper for terraform)
+*   Infrastructure as Code - Terraform 🌎 used for provision cloud resources (also wrote providers and small opinionated wrapper for terraform)
 *   CI/CD on the cloud - using AWS CodePipeline
 *   Docker 🐳 - writing Dockerfile and docker-compose.yml files
 *   Deploying and maintaining web apps on linux🐧 servers using nginx and supervisord
 *   Worked with PostgreSQL/MySQL/MariaDB locally and on AWS RDS
-*   Accustomed to the GNU/Linux toolchain, bash scripting, git, curl, etc…
+*   Accustomed to the GNU/Linux toolchain, bash scripting, ssh, git, curl, etc…
 
 ### 💻 Setup:
 
-*   Usually working under Linux (currently KDE Neon/Ubuntu 20.04) with PyCharm, WebStorm and VSCode
+*   Prefer to use Linux as my daily driver (to keep local dev as similar as possiable to containerized deployments).
+*   Accustomed to Mac and MacOS
+*   Loves JetBrain's products PyCharm, WebStorm, Goland etc... and VSCode ofcourse
 
 ### ⁉️ About:
 
-*   35 years old
+*   36 years old
 *   Coding on and off since the bar mitzvah (started with the good ol’ Turbo Pascal). on a regular basis since 2009
 *   Currently lives in Beer-Sheva 🐪, Israel
-*   In a relationship. expecting +1 soon 👶
+*   In a relationship. +1 toddler 👶
 *   Languages: Hebrew, English
 *   Bachelor of Education from Beit-Berl College
 *   Tour and Moreshet guide from HaMeorer institute
