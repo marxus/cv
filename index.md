@@ -18,7 +18,7 @@ I'm drawn to Core/Platform backend roles where I can tackle engineering challeng
 
 In this fast-growing security startup, I've been the go-to person for infrastructure scaling and keeping systems stable when everything's growing rapidly. What I'm most proud of is leading the development of edge solutions for remote agents - basically making sure our security agents can reliably connect and communicate from anywhere in the world. I've shaped how we handle network connectivity, built observability frameworks that actually help us understand what's happening, and streamlined our deployment processes. The best part? My work directly impacts how well our distributed security agents perform for clients everywhere.
 
-**Change Healthcare (2019-2022) - DevOps Lead, Backend Engineer**
+**Change Healthcare (2021-2022) - DevOps Lead, Backend Engineer**
 
 At Change Healthcare, I was the DevOps Lead responsible for making developers' lives easier. I spent my time designing CI/CD pipelines that actually worked - the kind that let teams deploy with confidence instead of holding their breath. I became the Terraform and CloudFormation person, building cloud infrastructure that was predictable and manageable. I also got everyone excited about GitOps (okay, maybe not everyone, but most people!). On the backend side, I built serverless applications in Go and Node.js, focusing on healthcare data processing that needed to be both scalable and secure - because healthcare data doesn't mess around.
 
